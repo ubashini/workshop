@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;400&family=Mulish:wght@200&display=swap');
+*{
+    overflow: hidden;
+}
+    body{
+        background-color: black;
+    }
+    .main1{
+        background-color: rgb(120, 202, 216);
+        height:620px;
+        width: 75%;
+        margin: auto;
+        margin-top: 0;
+    }
+    .main{
+        height: 550px;
+        width:50%;
+        background-color: white;
+        margin: auto;
+        margin-top: 40px;
+        margin-bottom: 40px;
+        border-radius: 2%;
+        padding:0 50px;
+        border: lightgray;
+        box-sizing:border-box;
+    }
+    h1{
+        text-align: center;
+        margin-top: 60px;
+        font-family: 'Roboto', sans-serif;
+        font-size: 28px;
+    }
+.form{
+    font-size: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+    
+   
+}
+.input{
+    padding: 20px;
+    width: 75%;
+    margin-bottom: 20px;
+    border: 1px solid;
+    border-color: lightgray;
+}
+
+.checkbox{
+    font-family: 'Quicksand', sans-serif;
+}
+input{
+    margin-bottom: 30px;
+
+}
+button{
+    width: 100%;
+    padding: 20px;
+    background-color: rgb(51, 51, 124);
+    color: white;
+    margin-bottom: 30px;
+}
+.info{
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+
+}
+.un{
+    color: blues;
+    font-family: none;
+}
